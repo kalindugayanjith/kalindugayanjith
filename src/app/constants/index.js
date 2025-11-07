@@ -6,3 +6,7 @@ export const words = [
   
   
 ];
+export const counterItems = [
+  { value: 2, suffix: "+", label: "Years of Experience" },
+  { value: 12, suffix: "+", label: "Completed Projects" },
+];
