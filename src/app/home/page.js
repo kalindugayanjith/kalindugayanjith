@@ -1,14 +1,15 @@
 import ProfilePage from "./partials/profile";
-import Hero from "./partials/hero";
-
+import HeroPage from "./partials/hero";
+import SkillsPage from "./partials/skills";
 export default function HomePage() {
 
 
   return (
     <>
      <div className="page-wrapper">
-       <Hero />
+       <HeroPage />
       <ProfilePage />
+      <SkillsPage />
      </div>
     </>
   );

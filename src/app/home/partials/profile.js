@@ -5,6 +5,7 @@ import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { useGSAP } from "@gsap/react";
 import { counterItems } from "../../constants/index.js";
+import { bio } from "../../constants/index.js";
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -108,31 +109,21 @@ export default function ProfilePage() {
             <div className="col-md-10 col-lg-8 justify-content-center mx-auto pt-4 text-white">
               <div className="overview-text">
                 <p>
-                  Hi, I’m Kalindu Gayanjith, a Full-Stack Developer from Sri
-                  Lanka with over 2 years of experience building modern web
-                  applications that connect design and technology. I’m
-                  passionate about developing solutions that are not only
-                  efficient under the hood but also deliver smooth, engaging
-                  user experiences. My expertise spans across React, Vue.js,
-                  Next.js, Laravel, and Node.js, allowing me to handle
-                  everything from front-end interfaces to back-end systems with
-                  confidence. I enjoy transforming ideas into scalable,
-                  high-performing products that align with real user needs. With
-                  a background in Management Information Systems, I bring a
-                  balance of technical knowledge and business insight to every
-                  project. I’m always exploring new tools, improving my
-                  workflow, and striving to write code that’s clean, reliable,
-                  and built to last.
+                  {bio}
                 </p>
               </div>
             </div>
           </div>
-          <div className="row justify-content-center pt-5 text-white text-center" ref={counterRef}>
+          <div
+            className="row justify-content-center pt-5 text-white text-center"
+            ref={counterRef}
+          >
             {counterItems.map((item, index) => (
               <div
                 key={index}
                 ref={(el) => el && (countersRef.current[index] = el)}
-                className="col-6 col-md-4 col-lg-3">
+                className="col-6 col-md-4 col-lg-3"
+              >
                 <div className="counter-number mb-2 fs-1 fw-bold">
                   0 {item.suffix}
                 </div>
