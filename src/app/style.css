@@ -264,3 +264,7 @@ body {
 .icon-wrapper:hover::before {
   left: 100%;
 }
+.skill-border {
+  border: 1px solid !important;
+  border-color: rgb(38, 38, 38) !important;
+}
