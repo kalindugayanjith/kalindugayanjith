@@ -84,7 +84,7 @@ const [index, setIndex] = useState(0);
                 <p className="tag-lilne pt-3">Hi, I’m Kalindu from Sri Lanka. I create sleek, interactive websites that feel alive.</p>
               </div>
               <div className="btn-grp pt-5">
-                <Button label="See my Projects" className="px-5 py-2 btn-custom fw-semibold me-2" type="submit" />
+                <Button label="See my Projects" className="px-md-5 py-md-2 px-3 py-2 btn-custom fw-semibold me-2" type="submit" />
               </div>
             </div>
           </div>
