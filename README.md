@@ -26,3 +26,5 @@ Clone the repository and install dependencies:
 git clone https://github.com/kalindugayanjith/portfolio.git
 cd portfolio
 npm install
+npm run dev
+
