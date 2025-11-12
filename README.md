@@ -1,112 +1,28 @@
-<!-- Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=I'm+Kalindu+Gayanjith!;" alt="Typing SVG" />
-</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack%20Developer-0D6EFD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI%20Integration-0D6EFD?style=for-the-badge"/>
-</p>
+# Portfolio Website
 
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" alt="Dark Banner"/>
-</p>
+A modern, interactive portfolio website built with **Next.js** and **React**, featuring smooth animations, 3D effects, and engaging UI components.
 
----
+## 🚀 Features
 
-<!-- About Me -->
-<div align="center">
+- **Smooth Animations**: Powered by [GSAP](https://greensock.com/gsap/) and [Framer Motion](https://www.framer.com/motion/).  
+- **3D & WebGL Effects**: Interactive 3D scenes using [React Three Fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction) and [Drei](https://github.com/pmndrs/drei).  
+- **Scroll-Based Animations**: Sections animate based on scroll with [@meadown/scroll-progress-trigger](https://www.npmjs.com/package/@meadown/scroll-progress-trigger).  
+- **Dynamic Backgrounds**: Cool animated backgrounds using [Vanta.js](https://www.vantajs.com/).  
+- **React Components**: Multi-carousel, fast marquee, and typewriter effects to enhance UX.  
+- **Responsive & Mobile Friendly**: Fully responsive for all devices.  
 
-###  About Me
+## 🛠 Tech Stack
 
-🚀 **Passionate Web Developer** crafting modern, responsive web apps  
+- **Framework**: Next.js 16  
+- **UI & Animations**: React, GSAP, Framer Motion, Typewriter Effect  
+- **3D / WebGL**: React Three Fiber, Drei, Three.js, Vanta  
+- **Utilities**: React CountUp, React Fast Marquee, React Multi Carousel  
 
+## 📦 Installation
 
-🤖 **Exploring:** AI-driven web experiences  
+Clone the repository and install dependencies:
 
-✨ **Goal:** Build apps that delight users & solve real problems  
-
-📬 **Reach me:** [kalindugayanjith@gmail.com](mailto:kalindugayanjith@gmail.com)  
-
-</div>
- 
-
----
-
-<!-- Social Links -->
-<p align="center">
-  <a href="https://linkedin.com/in/kalindugayanjith" target="_blank">
-    <img src="https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:kalindugayanjith@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://kalindugayanjith.vercel.app/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/-github-000000?style=for-the-badge&logo=github&logoColor=00F5FF"/>
-  </a>
-</p>
-
----
-
-<!-- Tech Stack -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,laravel,php,python,mysql,figma,git" />
-</p>
-
----
-
-<!-- GitHub Stats -->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalindugayanjith&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalindugayanjith&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00F5FF" height="170"/>
-</p>
-
----
-
-<!-- Streak & Trophies -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kalindugayanjith&theme=react&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF" width="48%"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=kalindugayanjith&theme=algolia&no-bg=true&no-frame=true&row=1&column=5" width="48%"/>
-</p>
-
----
-
-<!-- Activity Graph -->
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalindugayanjith&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&hide_border=true" />
-</p>
-
----
-
-<!-- Featured Projects -->
-
-<p align="center">
-  <a href="https://github.com/kalindugayanjith/kalindugayanjith">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalindugayanjith&repo=kalindugayanjith&theme=react&bg_color=0D1117&title_color=00F5FF&hide_border=true" />
-  </a>
-  <a href="https://github.com/kalindugayanjith/chat_bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalindugayanjith&repo=chat_bot&theme=react&bg_color=0D1117&title_color=00F5FF&hide_border=true" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=500&color=00F5FF&width=600&lines=Thanks+for+visiting+my+profile!;Have+a+great+day!" alt="Footer Animation" />
-</p>
-
----
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/kalindugayanjith?label=Followers&style=social" alt="GitHub Badge" />
-  <img src="https://komarev.com/ghpvc/?username=kalindugayanjith&color=00F5FF&style=flat-square&label=Profile+Views"/>
-</p>
-
-<p align="center">✨ “Code. Create. Repeat.” ✨</p>
+```bash
+git clone https://github.com/kalindugayanjith/portfolio.git
+cd portfolio
+npm install
