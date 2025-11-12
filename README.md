@@ -9,7 +9,7 @@
 
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/y5sX3r7/github-banner-dark-2.gif" width="100%" alt="Dark Banner"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" alt="Dark Banner"/>
 </p>
 
 ---
@@ -17,11 +17,11 @@
 <!-- About Me -->
 <div align="center">
 
-### 🧑‍💻 About Me
+###  About Me
 
 🚀 **Passionate Web Developer** crafting modern, responsive web apps  
 
-🛠 **Tech Stack:**  
+ **Tech Stack:**  
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30"/> 
   <img src="https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" height="30"/> 
@@ -63,7 +63,7 @@
 ---
 
 <!-- GitHub Stats -->
-## 📊 GitHub Overview
+## GitHub Overview
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kalindugayanjith&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalindugayanjith&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00F5FF" height="170"/>
@@ -80,7 +80,7 @@
 ---
 
 <!-- Activity Graph -->
-## 🌌 Contribution Graph
+##  Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalindugayanjith&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&hide_border=true" />
 </p>
@@ -88,7 +88,7 @@
 ---
 
 <!-- Featured Projects -->
-## 🚀 Featured Projects
+##  Featured Projects
 <p align="center">
   <a href="https://github.com/kalindugayanjith/react-todo">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalindugayanjith&repo=react-todo&theme=react&bg_color=0D1117&title_color=00F5FF&hide_border=true" />
@@ -101,7 +101,7 @@
 ---
 
 <!-- Snake Animation -->
-## 🐍 My Contributions
+##  My Contributions
 <p align="center">
   <img src="https://raw.githubusercontent.com/kalindugayanjith/kalindugayanjith/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
