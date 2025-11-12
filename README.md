@@ -1,13 +1,16 @@
 <!-- Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=435&lines=Hey+there!+👋;I'm+Kalindu+Gayanjith!;Front-end+Developer+💻;MSc+AI+Student+🤖" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=I'm+Kalindu+Gayanjith!;" alt="Typing SVG" />
 </h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Full--Stack%20Developer-0D6EFD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20Integration-0D6EFD?style=for-the-badge"/>
+</p>
 
 <!-- Profile Banner -->
 <p align="center">
-  <img src="[https://i.imgur.com/zYvxJX5.gif](https://i.ibb.co/PDvY0F2/github-banner-dark.gif)" width="100%" alt="Banner"/>
+  <img src="https://i.ibb.co/y5sX3r7/github-banner-dark-2.gif" width="100%" alt="Dark Banner"/>
 </p>
-
 ---
 
 <!-- About Me -->
