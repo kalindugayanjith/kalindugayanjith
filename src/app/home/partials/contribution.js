@@ -1,9 +1,48 @@
 "use client";
 
+import { useRef } from "react";
+import { gsap } from "gsap";
+import { ScrollTrigger } from "gsap/ScrollTrigger";
+import { useGSAP } from "@gsap/react";
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
 
 export default function ContributionPage() {
+  const sectionRef = useRef(null);
+  const slider = useRef(null);
+
+  useGSAP(() => {
+    // Animation for the main section
+    gsap.fromTo(
+      sectionRef.current,
+      { opacity: 0 },
+      { opacity: 1, duration: 1.5 }
+    );
+
+    // Animations for each app showcase
+    const cards = [slider.current];
+
+    cards.forEach((card, index) => {
+      gsap.fromTo(
+        card,
+        {
+          y: 50,
+          opacity: 0,
+        },
+        {
+          y: 0,
+          opacity: 1,
+          duration: 1,
+          delay: 0.3 * (index + 1),
+          scrollTrigger: {
+            trigger: card,
+            start: "top bottom-=100",
+          },
+        }
+      );
+    });
+  }, []);
+
   const responsive = {
     superLargeDesktop: {
       breakpoint: { max: 4000, min: 3000 },
@@ -25,14 +64,14 @@ export default function ContributionPage() {
 
   return (
     <>
-      <div className="section">
+      <div className="section" ref={sectionRef}>
         <div className="container">
           <div className="heading-wrapper text-center py-5 mt-4">
             <h2 className="section-heading text-white home-page__title">
               My Contributions
             </h2>
           </div>
-          <div className="contribution-wrapper pb-3">
+          <div className="contribution-wrapper pb-3" ref={slider}>
             <Carousel responsive={responsive} showDots={true}>
               <div className="mx-2 h-100">
                 <div className="wrapper-slider rounded-4 p-4 h-100">

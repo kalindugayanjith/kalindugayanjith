@@ -264,7 +264,7 @@ body {
 .icon-wrapper:hover::before {
   left: 100%;
 }
-.skill-border, .wrapper-slider {
+.skill-border, .wrapper-slider, .project {
   border: 1px solid !important;
   border-color: rgb(38, 38, 38) !important;
 }
@@ -303,4 +303,7 @@ body {
    /* keep height same if needed */
   background-color: black;
   border-radius: 18px !important;
+}
+.icon{
+  margin-right: 10px;
 }

@@ -5,6 +5,8 @@ import ExperiencePage from "./partials/experience";
 import KeyskillPage from "./partials/keySkills";
 import EducationPage from "./partials/education";
 import ContributionPage from "./partials/contribution";
+import ProjectPage from "./partials/projects";
+
 
 export default function HomePage() {
 
@@ -19,6 +21,7 @@ export default function HomePage() {
       <KeyskillPage />
       <EducationPage />
       <ContributionPage />
+      <ProjectPage />
      </div>
     </>
   );
