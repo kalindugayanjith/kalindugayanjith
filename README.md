@@ -55,7 +55,6 @@
 ---
 
 <!-- Tech Stack -->
-## ⚙️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,laravel,php,python,mysql,figma,git" />
 </p>
@@ -63,7 +62,7 @@
 ---
 
 <!-- GitHub Stats -->
-## GitHub Overview
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kalindugayanjith&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalindugayanjith&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00F5FF" height="170"/>
@@ -80,7 +79,7 @@
 ---
 
 <!-- Activity Graph -->
-##  Contribution Graph
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalindugayanjith&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&hide_border=true" />
 </p>
@@ -88,12 +87,12 @@
 ---
 
 <!-- Featured Projects -->
-##  Featured Projects
+
 <p align="center">
-  <a href="https://github.com/kalindugayanjith/react-todo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalindugayanjith&repo=react-todo&theme=react&bg_color=0D1117&title_color=00F5FF&hide_border=true" />
+  <a href="https://github.com/kalindugayanjith/kalindugayanjith">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalindugayanjith&repo=kalindugayanjith&theme=react&bg_color=0D1117&title_color=00F5FF&hide_border=true" />
   </a>
-  <a href="https://github.com/kalindugayanjith/python_bot">
+  <a href="https://github.com/kalindugayanjith/chat_bot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalindugayanjith&repo=python_bot&theme=react&bg_color=0D1117&title_color=00F5FF&hide_border=true" />
   </a>
 </p>
