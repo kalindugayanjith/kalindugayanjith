@@ -21,12 +21,6 @@
 
 🚀 **Passionate Web Developer** crafting modern, responsive web apps  
 
- **Tech Stack:**  
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30"/> 
-  <img src="https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" height="30"/> 
-  <img src="https://img.shields.io/badge/Laravel-F05440?style=for-the-badge&logo=laravel&logoColor=white" height="30"/>  
-</p>
 
 🤖 **Exploring:** AI-driven web experiences  
 
