@@ -36,13 +36,13 @@
 <!-- Social Links -->
 <p align="center">
   <a href="https://linkedin.com/in/kalindugayanjith" target="_blank">
-    <img src="https://img.shields.io/badge/-Kalindu%20Gayanjith-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:kalindugayanjith@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://kalindugayanjith.vercel.app/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-111111?style=for-the-badge&logo=github&logoColor=00F5FF"/>
+    <img src="https://img.shields.io/badge/-github-000000?style=for-the-badge&logo=github&logoColor=00F5FF"/>
   </a>
 </p>
 
