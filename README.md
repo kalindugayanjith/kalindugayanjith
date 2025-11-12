@@ -11,14 +11,31 @@
 <p align="center">
   <img src="https://i.ibb.co/y5sX3r7/github-banner-dark-2.gif" width="100%" alt="Dark Banner"/>
 </p>
+
 ---
 
 <!-- About Me -->
+<div align="center">
+
 ### 🧑‍💻 About Me
-> Passionate about crafting modern, responsive web applications  
-> 🎯 Focused on **React, Vue, and Laravel**  
-> 🧠 Learning **AI-driven web experiences**  
-> ✉️ Reach me: **[kalindugayanjith@gmail.com](mailto:kalindugayanjith@gmail.com)**  
+
+🚀 **Passionate Web Developer** crafting modern, responsive web apps  
+
+🛠 **Tech Stack:**  
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30"/> 
+  <img src="https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" height="30"/> 
+  <img src="https://img.shields.io/badge/Laravel-F05440?style=for-the-badge&logo=laravel&logoColor=white" height="30"/>  
+</p>
+
+🤖 **Exploring:** AI-driven web experiences  
+
+✨ **Goal:** Build apps that delight users & solve real problems  
+
+📬 **Reach me:** [kalindugayanjith@gmail.com](mailto:kalindugayanjith@gmail.com)  
+
+</div>
+ 
 
 ---
 
