@@ -93,7 +93,7 @@ export default function EducationPage() {
                     <div className="col-md-9">
                       <div className="dec">
                         <p className="fs-5 fw-semibold mb-0">
-                          BSc in (Hons) in Management Information Systems
+                          BSc (Hons) in Management Information Systems
                         </p>
                         <p className="text-secondary mb-0">
                           University College Dublin, Ireland

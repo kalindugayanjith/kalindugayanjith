@@ -264,7 +264,10 @@ body {
 .icon-wrapper:hover::before {
   left: 100%;
 }
-.skill-border, .wrapper-slider, .project {
+.skill-border,
+.wrapper-slider,
+.project,
+.send-mail-wrapper {
   border: 1px solid !important;
   border-color: rgb(38, 38, 38) !important;
 }
@@ -282,7 +285,6 @@ body {
 .image-3d {
   perspective: 1000px; /* adds depth */
   display: inline-block;
-  
 }
 .image-3d img {
   border-radius: 12px;
@@ -290,20 +292,120 @@ body {
   transform: rotateY(0deg) rotateX(0deg);
   object-fit: contain;
   border-radius: 50%;
-
 }
 .image-3d:hover img {
   transform: rotateY(15deg) rotateX(10deg) scale(1.05);
 }
-.react-multi-carousel-list  {
+.react-multi-carousel-list {
   padding-bottom: 2rem !important;
 }
 .react-multi-carousel-dot--active button {
-  width: 30px !important;      /* active dot width */
-   /* keep height same if needed */
+  width: 30px !important; /* active dot width */
+  /* keep height same if needed */
   background-color: black;
   border-radius: 18px !important;
 }
-.icon{
+.icon {
   margin-right: 10px;
+}
+
+.parallax-container {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.82), rgba(0, 0, 0, 0.837)),
+    url("/assets/parallax.jpg");
+  min-height: 100vh !important;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.set {
+  border: 1px solid rgb(56, 56, 56);
+  position: relative;
+  overflow: hidden;
+  transition: all 0.5s ease;
+  cursor: pointer;
+  background-color: transparent;
+  color: #fff;
+}
+
+/* Hover border color */
+.set:hover {
+  
+  background: rgb(0, 0, 0); /* optional subtle bg change */
+}
+
+/* Shine effect */
+.set::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 50%; /* width of the shine */
+  height: 100%;
+  transform: translateX(-150%); /* start off-screen */
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(255, 255, 255, 0.35),
+    transparent
+  );
+  transition: transform 0.6s ease;
+  pointer-events: none;
+  z-index: 1;
+  will-change: transform;
+}
+
+/* Move shine across on hover */
+.set:hover::before {
+  transform: translateX(250%);
+}
+
+.form-control{
+  background-color: transparent !important;
+  color: white !important;
+  box-shadow: none !important;
+}
+
+.custom-btn-2 {
+  background-color: #000 !important;
+  border-color: #fff !important;
+  position: relative;
+  overflow: hidden;
+  transition: all 0.5s ease;
+  cursor: pointer;
+  background-color: transparent;
+  color: #fff !important;
+}
+
+/* Hover border color */
+.custom-btn-2:hover {
+  
+  background: rgb(0, 0, 0); /* optional subtle bg change */
+}
+
+/* Shine effect */
+.custom-btn-2::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 50%; /* width of the shine */
+  height: 100%;
+  transform: translateX(-150%); /* start off-screen */
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(255, 255, 255, 0.35),
+    transparent
+  );
+  transition: transform 0.6s ease;
+  pointer-events: none;
+  z-index: 1;
+  will-change: transform;
+}
+
+/* Move shine across on hover */
+.custom-btn-2:hover::before {
+  transform: translateX(250%);
 }

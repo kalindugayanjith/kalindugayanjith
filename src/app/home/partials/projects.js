@@ -60,7 +60,7 @@ export default function ProjectPage() {
                     <div className="col-9">
                       <div className="project-name">
                         <p className="">
-                          kgayanjith/{" "}
+                          kgayanjith/
                           <span className="fw-bold">
                             kalindugayanjith-portfolio
                           </span>
@@ -136,7 +136,7 @@ export default function ProjectPage() {
                     <div className="col-9">
                       <div className="project-name">
                         <p className="">
-                          kgayanjith/ <span className="fw-bold">chat-bot</span>
+                          kgayanjith/<span className="fw-bold">chat-bot</span>
                         </p>
                       </div>
                     </div>
@@ -169,7 +169,7 @@ export default function ProjectPage() {
                     <div className="col-9">
                       <div className="project-name">
                         <p className="">
-                          kgayanjith/{" "}
+                          kgayanjith/
                           <span className="fw-bold">gym-management-system</span>
                         </p>
                       </div>
@@ -210,7 +210,7 @@ export default function ProjectPage() {
                     <div className="col-9">
                       <div className="project-name">
                         <p className="">
-                          kgayanjith/{" "}
+                          kgayanjith/
                           <span className="fw-bold">react-todo</span>
                         </p>
                       </div>

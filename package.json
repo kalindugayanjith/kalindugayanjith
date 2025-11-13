@@ -9,6 +9,7 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@emailjs/browser": "^4.4.1",
     "@gsap/react": "^2.1.2",
     "@meadown/scroll-progress-trigger": "^1.1.7",
     "@react-three/drei": "^10.7.6",
@@ -20,7 +21,9 @@
     "react-countup": "^6.5.3",
     "react-dom": "19.2.0",
     "react-fast-marquee": "^1.6.5",
+    "react-google-recaptcha": "^3.1.0",
     "react-multi-carousel": "^2.8.6",
+    "sweetalert2": "^11.26.3",
     "three": "^0.181.0",
     "typewriter-effect": "^2.22.0",
     "vanta": "^0.5.24"

@@ -6,6 +6,7 @@ import KeyskillPage from "./partials/keySkills";
 import EducationPage from "./partials/education";
 import ContributionPage from "./partials/contribution";
 import ProjectPage from "./partials/projects";
+import ContactPage from "./partials/contact";
 
 
 export default function HomePage() {
@@ -13,7 +14,7 @@ export default function HomePage() {
 
   return (
     <>
-     <div className="page-wrapper">
+     <div className="page-wrapper parallax-container">
        <HeroPage />
       <ProfilePage />
       <SkillsPage />
@@ -22,6 +23,7 @@ export default function HomePage() {
       <EducationPage />
       <ContributionPage />
       <ProjectPage />
+      <ContactPage />
      </div>
     </>
   );
