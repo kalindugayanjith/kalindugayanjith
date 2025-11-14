@@ -7,7 +7,7 @@ import EducationPage from "./partials/education";
 import ContributionPage from "./partials/contribution";
 import ProjectPage from "./partials/projects";
 import ContactPage from "./partials/contact";
-
+// import Slider from "./partials/slider"
 
 export default function HomePage() {
 
@@ -23,6 +23,7 @@ export default function HomePage() {
       <EducationPage />
       <ContributionPage />
       <ProjectPage />
+      {/* <Slider /> */}
       <ContactPage />
      </div>
     </>

@@ -26,6 +26,7 @@ export default function Navbar() {
               aria-controls="navbarNav"
               aria-expanded="false"
               aria-label="Toggle navigation"
+             
             >
               <span className="fa-solid fa-bars text-white"></span>
             </button>
@@ -50,6 +51,7 @@ export default function Navbar() {
                     className="nav-link link-tag"
                     aria-current="page"
                     to="profile"
+                    
                     
                   >
                     Profile

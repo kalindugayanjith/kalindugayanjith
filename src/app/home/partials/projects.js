@@ -61,14 +61,14 @@ export default function ProjectPage() {
                 <div className="project rounded-4 p-3" ref={p_1}>
                   <div className="row">
                     <div className="col-9">
-                      <div className="project-name">
+                      <a className="project-name" href="https://github.com/kgayanjith/kalindugayanjith" target="_blank">
                         <p className="">
                           kgayanjith/
                           <span className="fw-bold">
                             kalindugayanjith-portfolio
                           </span>
                         </p>
-                      </div>
+                      </a>
                     </div>
                     <div className="col-3">
                       <div className="icon p-2">
@@ -137,11 +137,11 @@ export default function ProjectPage() {
                 <div className="project rounded-4 p-3" ref={p_2}>
                   <div className="row">
                     <div className="col-9">
-                      <div className="project-name">
+                      <a className="project-name" href="https://github.com/kgayanjith/chat_bot" target="_blank">
                         <p className="">
                           kgayanjith/<span className="fw-bold">chat-bot</span>
                         </p>
-                      </div>
+                      </a>
                     </div>
                     <div className="col-3">
                       <div className="icon p-2">
@@ -170,12 +170,12 @@ export default function ProjectPage() {
                 <div className="project rounded-4 p-3" ref={p_3}>
                   <div className="row">
                     <div className="col-9">
-                      <div className="project-name">
+                      <a className="project-name" href="https://github.com/kgayanjith/gym-management-system" target="_blank">
                         <p className="">
                           kgayanjith/
                           <span className="fw-bold">gym-management-system</span>
                         </p>
-                      </div>
+                      </a>
                     </div>
                     <div className="col-3">
                       <div className="icon p-2">
@@ -211,12 +211,12 @@ export default function ProjectPage() {
                 <div className="project rounded-4 p-3" ref={p_4}>
                   <div className="row">
                     <div className="col-9">
-                      <div className="project-name">
+                      <a className="project-name" href="https://github.com/kgayanjith/gym-management-system" target="_blank">
                         <p className="">
                           kgayanjith/
                           <span className="fw-bold">react-todo</span>
                         </p>
-                      </div>
+                      </a>
                     </div>
                     <div className="col-3">
                       <div className="icon p-2">

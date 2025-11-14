@@ -124,7 +124,7 @@ export default function ContactPage() {
   return (
     <>
       <Element name="contact">
-        <section ref={sectionRef}>
+        <section ref={sectionRef} className="pb-5">
           <div className="container">
             <div className="heading-wrapper text-center py-5 mt-4">
               <h2 className="section-heading text-white home-page__title">
@@ -133,7 +133,7 @@ export default function ContactPage() {
             </div>
             <div className="contact-wrapper text-white">
               <div className="row align-items-center">
-                <div className="col-lg-6 mb-4">
+                <div className="col-lg-6 mb-5">
                   <div className="wrapper-details" ref={con_1}>
                     <p className="fs-3 fw-semibold">Get in Touch</p>
                     <p className="fw-lighter">

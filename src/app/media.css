@@ -13,6 +13,12 @@
  .btn-custom{
   font-size: 12px !important;
  }
+ .footer-row{
+  flex-direction: column-reverse !important;
+ }
+ .footer-icon-wrapper{
+  justify-content: center !important;
+ }
  
 }
 
@@ -40,6 +46,9 @@
 .navbar-nav {
   flex-direction: column !important;
   border: none !important;
+}
+.footer-text{
+  font-size: 13px;
 }
 
 }

@@ -463,3 +463,22 @@ body {
 .contact-btn:hover::before {
   left: 100%;
 }
+
+/* .slide{
+  margin-left: 15px;
+  margin-right: 15px;
+} */
+
+.footer-section{
+  border-top: 1px solid ;
+  border-color: rgb(38, 38, 38) !important;
+}
+.footer-icon-wrapper{
+  justify-content: end;
+}
+
+.project-name{
+  cursor: pointer;
+  color: #ffffff !important;
+  text-decoration: none !important;
+}
