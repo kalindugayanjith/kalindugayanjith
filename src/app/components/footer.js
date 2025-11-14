@@ -9,7 +9,7 @@ export default function Footer() {
         <div className="col-md-3">
            <div className="text-center">
             <p className="footer-text">
-              <i className="fa-regular fa-copyright pe-1"></i> Designed by Kalindu
+               Designed by Kalindu
             </p>
           </div>
         </div>
