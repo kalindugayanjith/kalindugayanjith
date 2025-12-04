@@ -8,6 +8,7 @@ export default function MainLayout({ children }) {
       <head>
         <title>Kalindugayanjith | Portfolio</title>
         <link rel="icon" type="image/svg+xml" href="file.svg" />
+        <meta name="google-site-verification" content="nJg8mApBsm2z1sEZaTvA97xAbUPbc-82QbCvB-UmlG0" />
         <link
           href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css"
           rel="stylesheet"
