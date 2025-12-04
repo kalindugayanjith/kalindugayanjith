@@ -45,7 +45,7 @@ export default function Navbar() {
               className="collapse navbar-collapse justify-content-center "
               id="navbarNav"
             >
-              <ul className="navbar-nav d-flex rounded-4 px-5 py-3 py-lg-1 gap-3 align-items-center ">
+              <ul className="navbar-nav d-flex rounded-4 px-5 py-3 py-lg-1 gap-3 align-items-center rounded-pill">
                 <li className="nav-item">
                   <Link
                     className="nav-link link-tag"
@@ -70,7 +70,7 @@ export default function Navbar() {
                 <li className="nav d-none d-lg-block">
                   <Link className="nav-link link-tag" to="hero">
                     <span>
-                      <img src="assets/logo2.png" width={100} alt="" />
+                      <img src="assets/k.png" width={50} alt="logo.png" className="p-1" />
                     </span>
                   </Link>
                 </li>

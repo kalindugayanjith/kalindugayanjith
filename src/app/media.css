@@ -46,6 +46,7 @@
 .navbar-nav {
   flex-direction: column !important;
   border: none !important;
+  box-shadow: none !important;
 }
 .footer-text{
   font-size: 13px;
