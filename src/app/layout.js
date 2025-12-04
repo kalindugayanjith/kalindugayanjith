@@ -7,8 +7,10 @@ export default function MainLayout({ children }) {
     <html lang="en">
       <head>
         <title>Kalindugayanjith | Portfolio</title>
-        <link rel="icon" type="image/svg+xml" href="file.svg" />
+        <link rel="icon" type="image/svg+xml" href="favicon.svg" />
         <meta name="google-site-verification" content="nJg8mApBsm2z1sEZaTvA97xAbUPbc-82QbCvB-UmlG0" />
+        <meta name="description" content="Kalindu Gayanjith - Frontend Developer Portfolio, specialized in Vue, Laravel, React, and modern web development."></meta>
+        <meta name="keywords" content="Kalindu Gayanjith, Portfolio, Developer, Sri Lanka"></meta>
         <link
           href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css"
           rel="stylesheet"
