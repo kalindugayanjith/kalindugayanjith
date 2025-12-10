@@ -6,7 +6,7 @@ export default function MainLayout({ children }) {
   return (
     <html lang="en">
       <head>
-        <title>Kalindugayanjith | Portfolio</title>
+        <title>Kalindu Gayanjith</title>
         <link rel="icon" href="/favicon.ico" />
         <meta name="google-site-verification" content="nJg8mApBsm2z1sEZaTvA97xAbUPbc-82QbCvB-UmlG0" />
         <meta name="description" content="Kalindu Gayanjith - Frontend Developer Portfolio, specialized in Vue, Laravel, React, and modern web development."></meta>
