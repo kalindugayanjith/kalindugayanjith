@@ -125,9 +125,9 @@ export default function ProfilePage() {
               </div>
             </div>
           </div>
-          <div className="position-absolute h-100 w-100" style={{ zIndex: 0 }}>
+          {/* <div className="position-absolute h-100 w-100" style={{ zIndex: 0 }}>
             <Model />
-          </div>
+          </div> */}
         </section>
       </Element>
     </>

@@ -26,17 +26,16 @@ export default function Navbar() {
               aria-controls="navbarNav"
               aria-expanded="false"
               aria-label="Toggle navigation"
-             
             >
               <span className="fa-solid fa-bars text-white"></span>
             </button>
             {/* <span className="d-lg-none py-2"><img src="assets/logo2.png" width={100} alt="" /></span> */}
-            <Link to="contact" className="py-2 link-tag text-decoration-none d-lg-none">
+            <Link
+              to="contact"
+              className="py-2 link-tag text-decoration-none d-lg-none"
+            >
               <li className="contact-btn py-1">
-                <div
-                  className="contact-me px-3  rounded-3 fw-regular link-tag text-decoration-none"
-                 
-                >
+                <div className="contact-me px-3  rounded-3 fw-regular link-tag text-decoration-none">
                   <span className="text-black">Contact me</span>
                 </div>
               </li>
@@ -51,8 +50,6 @@ export default function Navbar() {
                     className="nav-link link-tag"
                     aria-current="page"
                     to="profile"
-                    
-                    
                   >
                     Profile
                   </Link>
@@ -70,7 +67,12 @@ export default function Navbar() {
                 <li className="nav d-none d-lg-block">
                   <Link className="nav-link link-tag" to="hero">
                     <span>
-                      <img src="assets/k.png" width={50} alt="logo.png" className="p-1" />
+                      <img
+                        src="assets/k.png"
+                        width={50}
+                        alt="logo.png"
+                        className="p-1"
+                      />
                     </span>
                   </Link>
                 </li>
@@ -88,7 +90,6 @@ export default function Navbar() {
                   <Link
                     className="contact-me px-3 py- rounded-3 fw-regular link-tag"
                     to="contact"
-                    
                   >
                     <span className="text-black">Contact me</span>
                   </Link>

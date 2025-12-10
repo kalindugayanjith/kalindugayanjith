@@ -173,6 +173,11 @@ box-shadow: 1px 0px 13px 4px rgba(255,255,255,0.15);
 .tag-lilne-pro {
   color: #d9ecff !important;
 }
+.heading-wrapper h2 .badge{
+  font-size: 12px;
+  font-weight: 300;
+}
+
 .tag-lilne-pro span {
   background-color: #282732 !important;
 }

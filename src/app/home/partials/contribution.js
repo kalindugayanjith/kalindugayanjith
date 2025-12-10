@@ -68,7 +68,13 @@ export default function ContributionPage() {
         <div className="container">
           <div className="heading-wrapper text-center py-5 mt-4">
             <h2 className="section-heading text-white home-page__title">
-              My Contributions
+              <span className=" position-relative">
+                My Contributions
+                <span className="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-white text-black">
+                  Interactive demos coming soon
+                </span>
+              </span>
+              
             </h2>
           </div>
           <div className="contribution-wrapper pb-3" ref={slider}>
