@@ -44,7 +44,7 @@ export default function ProfilePage() {
             style={{ zIndex: 9999 }}
           >
             <div className="col-lg-10">
-              <div className=" container hero-text ps-md-1 ps-lg-4">
+              <div className="container hero-text ps-md-1 ps-lg-4">
                 <h1 className="home-page__title d-flex align-items-center position-relative">
                   Building Your
                   <span className=" ps-3">
@@ -71,7 +71,7 @@ export default function ProfilePage() {
                             backgroundColor: "#D9ECFF",
                           }}
                         />
-                        <span style={{ color: "#ffffffff" }}>
+                        <span className="span-tag" style={{ color: "#ffffffff" }}>
                           {words[index].text}
                         </span>
                       </motion.div>
