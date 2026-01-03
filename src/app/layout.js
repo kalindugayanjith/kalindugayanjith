@@ -5,7 +5,7 @@ import AppLayout from "./components/AppLayout";
 export const metadata = {
   title: "Kalindu Gayanjith",
   description:
-    "I’m a Full-Stack Developer who enjoys turning complex problems into clean, scalable web solutions using React, Next.js, Laravel, and modern UI technologies.",
+    "I’m a Software Engineer who enjoys turning complex problems into clean, scalable web solutions using React, Next.js, Laravel, and modern UI technologies.",
       icons: {
     icon: "/icon.png",
     

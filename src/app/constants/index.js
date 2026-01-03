@@ -11,7 +11,7 @@ export const counterItems = [
   { value: 12, suffix: "+", label: "Completed Projects" },
 ];
 
-export const bio =`Hi, I’m Kalindu Gayanjith, a Full-Stack Developer from Sri
+export const bio =`Hi, I’m Kalindu Gayanjith, Software Engineer from Sri
                   Lanka with over 2 years of experience building modern web
                   applications that connect design and technology. I’m
                   passionate about developing solutions that are not only
