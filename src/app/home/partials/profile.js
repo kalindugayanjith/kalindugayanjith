@@ -101,7 +101,7 @@ export default function ProfilePage() {
                 <p className="fs-3 text-white stack">Kalindu Gayanjith</p>
                 <p className="tag-lilne-pro">
                   <span className="px-4 py-1 rounded-5">
-                    Full-Stack Developer | Laravel, React, Vue, Python & Figma
+                    Software Engineer | Laravel, React, Vue, Python & Figma
                   </span>
                 </p>
               </div>
